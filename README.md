@@ -4,12 +4,6 @@
 </div>
 
 
-<div id="badges" align="center">
-    <a href="">
-      <img src="https://img.shields.io/twitter/follow/paolagelvez17?style=social" alt="Twitter Badge">
-    </a>
-    
-</div>
 
 ---
 
