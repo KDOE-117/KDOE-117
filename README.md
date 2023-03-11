@@ -17,8 +17,6 @@
 
 
 
-
-
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
@@ -32,7 +30,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
          
-      </div>
 </div>
 
 ---
