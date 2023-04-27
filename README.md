@@ -9,10 +9,6 @@
 
 ### 👨‍💻 About Me :
 
-
-
-- 💬 Ask me about **PHP,  Javascript , Nodejs, Mysql,java** 
-
 - 📫 How to reach me **jdn2037@gmail.com**
 
 
